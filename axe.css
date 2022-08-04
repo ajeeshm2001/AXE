@@ -1,0 +1,584 @@
+html,body{
+    margin: 0%;
+    max-width: 100%;
+    overflow-x: hidden;
+
+}
+.container{
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.nav{
+    width: 100%;
+    display: flex;
+    padding: 32px;
+    align-items: center;
+    justify-content: space-between;
+    background: black;
+
+}
+.subitems{
+    color: white;
+    font-family: Poppins, Inter, sans-serif;
+    text-decoration: none;
+    font-weight: 949;
+    font-size: 14px;
+
+}
+.nav1{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 159px;
+
+}
+.subitems1{
+    color: yellow;
+    font-family: Poppins, Inter, sans-serif;
+    text-decoration: none;
+    font-weight: 949;
+    font-size: 14px;
+}
+.arrow{
+    width: 11px;
+    height: 13px;
+}
+.arrow1{
+    width: 13px;
+    margin-left: 9px;
+}
+.body1{
+    width: 100%;
+    height: 870px;
+    background: black;
+}
+.body1 hr{
+    margin-top: 0;
+}
+.smell{
+    color: #fff;
+    text-align: center;
+    margin-top: 63px;
+    font-size: 58px;
+    font-family: Poppins, Inter, sans-serif;
+    font-weight: 900px;
+    line-height: 51px;
+
+}
+.image1{
+    margin-left: 195px;
+    margin-top: -47px;
+}
+.button1{
+    background:black;
+    border: cyan solid;
+    border-radius: 30px;
+    color: cyan;
+    padding: 10px 40px;
+    font-family: Poppins, Inter, sans-serif;
+    cursor: pointer;
+}
+.button1:hover{
+    background-color: cyan;
+    color: black;
+
+}
+.body2{
+    width: 50%;
+    height: 300px;
+    background:#ff50d0;
+    padding-top: 36px;
+    float: left;
+}
+h3{
+    margin-top: 0%;
+    width: 6%;
+}
+.quiz{
+    margin-left: 89px;
+    font-family: Poppins, Inter, sans-serif;
+    width: 87px;
+}
+.find{
+    color: #fff;
+    font-family: Poppins, Inter, sans-serif;
+    font-size: 55px;
+    line-height: 49px;
+    margin-left: 86px;
+    margin-top: -12px;
+}
+.find2{
+    color: #fff;
+    font-family: Poppins, Inter, sans-serif;
+    font-size: 16px;
+    font-weight: 10px;
+    margin-left: 86px;
+    margin-top: -46px;
+}
+.button2{
+    background-color: black;
+    border: cyan solid;
+    border-radius: 30px;
+    color: cyan;
+    padding: 8px 26px;
+    font-family: Poppins, Inter, sans-serif;
+    cursor: pointer;
+    margin-left: 81px;
+}
+.button2:hover{
+    background-color: cyan;
+    color: black;
+}
+.body3{
+    float: left;
+    background: #ff50d0;
+    width: 50%;
+    height: 336px;
+
+
+}
+.couples{
+    margin-top: -19px;
+    margin-left: 72px;
+
+
+}
+.body4{
+    width: 100%;
+    height: 1200px;
+    background: black;
+
+}
+.nature{
+    color: #fff;
+    font-family:Poppins, Inter, sans-serif ;
+    font-size: 55px;
+    line-height: 56px;
+    text-align: center;
+    margin-top: 0%;
+    padding-top: 389px;
+
+}
+.perfume{
+    margin-left: 183px;
+    margin-top: -50px;
+}
+.button3{
+    background: black;
+    color: cyan;
+    border: cyan solid;
+    border-radius: 30px;
+    padding: 10px 40px;
+    font-family: Poppins, Inter, sans-serif;
+    cursor: pointer;
+    margin-left: -639px;
+    position: relative;
+    top: 39px;
+}
+.button3:hover{
+    background: cyan;
+    color: black;
+}
+.body5{
+    background: black;
+    width: 100%;
+    padding-top: 0%;
+}
+.new{
+    color: #fff;
+    font-family:Poppins, Inter, sans-serif ;
+    font-size: 55px;
+    text-align: center;
+    margin-top: 0%;
+    padding-top: 10px;
+
+}
+.new1{
+    color: #fff;
+    font-family:Poppins, Inter, sans-serif ;
+    font-size: 20px;
+    text-align: center;
+    margin-top: -70px;
+}
+.body6{
+    height: 500px;
+    background: url("/AXE/bg_all_new_axe-32921091-png.webp");
+    background-position: right;
+    background-repeat: no-repeat;
+    padding-top: 34px;
+    padding-left: 39px;
+    padding-right: 59px;
+    
+}
+.body7{
+ 
+    background: black;
+    height: 432px;
+    padding-right: 788px;
+    overflow: hidden;
+    padding-bottom: 3px;
+
+}
+.body8{
+    height: 432px;
+    background: black;
+    border:yellow solid 1px;
+    overflow: hidden;
+    
+}
+.action{
+    color: #fff;
+    font-family: Poppins, Inter, sans-serif;
+    font-size: 32px;
+    margin-left: 203px;
+
+}
+.action1{
+    color: #fff;
+    font-family: Poppins, Inter, sans-serif;
+    font-size: 32px;
+    line-height: 0px;
+    margin-top: -22px;
+    margin-left: 293px;
+}
+.perfume1{
+    margin-top: -95px;
+}
+.perfume2{
+    color: #fff;
+    font-family: Poppins, Inter, sans-serif;
+    font-size: 14px;
+    margin-left: 59px;
+    margin-top: -11px;
+}
+.allinall{
+    margin-left: 242px;
+    margin-top: -146px;
+    width: 36px;
+    position: relative;
+    bottom: 96px;
+}
+.bust{
+    color: #fff;
+    font-family: Poppins, Inter, sans-serif;
+    font-size: 14px;
+    position: relative;
+    bottom: 259px;
+    left: 288px;
+}
+.bust1{
+    color: #fff;
+    font-family: Poppins, Inter, sans-serif;
+    font-size: 14px;
+    position: relative;
+    bottom: 253px;
+    left: 288px;
+}
+.bust2{
+    color: #fff;
+    font-family: Poppins, Inter, sans-serif;
+    font-size: 14px;
+    position: relative;
+    bottom: 246px;
+    left: 288px;
+}
+.bust3{
+    color: #fff;
+    font-family: Poppins, Inter, sans-serif;
+    font-size: 14px;
+    position: relative;
+    left: 288px;
+    bottom: 239px;
+}
+.button4{
+    background: black;
+    color: yellow;
+    font-size: 11px;
+    border: yellow solid;
+    border-radius: 30px;
+    padding: 8px 18px;
+    font-family: Poppins, Inter, sans-serif;
+    cursor: pointer;
+    position: relative;
+    bottom: 223px;
+    left: 369px;
+}
+.button4:hover{
+    color: black;
+    background: yellow;
+}
+.sweat{
+    position: relative;
+    bottom: 400px;
+    left: 617px;
+}
+.anti{
+    color: #fff;
+    font-family: Poppins, Inter, sans-serif;
+    font-size: 14px;
+    position: relative;
+    bottom: 430px;
+    left: 651px;
+}
+.deo{
+    position: relative;
+    bottom: 809px;
+    left: 784px;
+}
+.deotext{
+    color: #fff;
+    font-family: Poppins, Inter, sans-serif;
+    font-size: 14px;
+    position: relative;
+    bottom: 844px;
+    left: 844px;
+}
+.bodywash{
+    position: relative;
+    bottom: 1220px;
+    left: 987px;
+}
+.bodywash1{
+    color: #fff;
+    font-family: Poppins, Inter, sans-serif;
+    font-size: 14px;
+    position: relative;
+    bottom: 1256px;
+    left: 1054px;
+}
+.hair{
+    position: relative;
+    bottom: 1632px;
+    left: 1193px;
+}
+.hair1{
+    color: #fff;
+    font-family: Poppins, Inter, sans-serif;
+    font-size: 14px;
+    position: relative;
+    bottom: 1669px;
+    left: 1288px;
+}
+.body9{
+    margin-bottom: 0px;
+    background: rgb(81, 228, 228);
+    padding-top: 1px;
+}
+.body9a{
+    text-align: center;
+}
+.body9a h1{
+    color: black;
+    font-size: 55px;
+    font-family: Poppins, Inter, sans-serif;
+    margin-bottom: 0px;
+}
+.body9a p{
+    color: black;
+    font-size: 17px;
+    font-family: Poppins, Inter, sans-serif;
+    background-color: yellow;
+    margin: 1px 606px;
+}
+.body9b{
+    display: flex;
+    margin-top: 15px;
+    justify-content: space-between;
+    padding: 0px 51px;
+}
+.body9c{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 72px;
+}
+.body9c h1{
+    color: black;
+    font-size: 20px;
+    font-family: Poppins, Inter, sans-serif;
+    background: yellow;
+    margin-right: 403px;
+}
+.body9c p{
+    color: black;
+    font-size: 20px;
+    font-family: Poppins, Inter, sans-serif;
+}
+.body9c div{
+    padding-bottom: 0px;
+}
+.body9c button{
+    background: black;
+    color: yellow;
+    border: yellow;
+    border-radius: 30px;
+    padding: 10px 40px;
+    font-family: Poppins, Inter, sans-serif;
+    position: relative;
+    bottom: 15px;
+}
+.body9c button:hover{
+    background: yellow;
+    color: black;
+}
+.body10a h1{
+    color: white;
+    font-size: 55px;
+    font-family: Poppins, Inter, sans-serif;
+    text-align: center;
+    margin-bottom: -36px;
+}
+.body10a p{
+    color: white;
+    font-size: 20px;
+    font-family: Poppins, Inter, sans-serif;
+    text-align: center;
+}
+.final{
+    display: flex;
+}
+.body10d{
+    margin-left: 116px;
+}
+.body10c{
+    color: #fff;
+    text-align: center;
+    position: relative;
+    left: 45px;
+}
+.body10c p{
+    font-family:Poppins, Inter, sans-serif ;
+    font-size: 12px;
+}
+.body10c h1{
+    font-family: Poppins, Inter, sans-serif;
+}
+.body10c button{
+    background: black;
+    color: cyan;
+    border: cyan solid;
+    border-radius: 30px;
+    padding: 9px 30px;
+    font-family: Poppins, Inter, sans-serif;
+    cursor: pointer;
+    margin-top: 81px;
+}
+.body10c button:hover{
+    background: cyan;
+    color: black;
+}
+.body10{
+    background: black;
+    padding-top: 1px;
+    margin-bottom: -1px;
+}
+.body11{
+    display: flex;
+    justify-content: space-between;
+    padding: 3px 179px; 
+    background: yellow;
+    margin-top: -3px;
+}
+.body11 h1{
+    font-family: Poppins, Inter, sans-serif;
+    font-size: 55px;
+    color: black;
+    line-height: 51px;
+}
+.body11 p{
+    font-weight: bolder;
+    font-size: 16px;
+    margin-top: 68px;
+
+}
+.body11 button{
+
+    background: black;
+    color: cyan;
+    border: cyan;
+    border-radius: 30px;
+    padding: 10px 30px;
+    font-family: Poppins, Inter, sans-serif;
+    padding: 11px 36px;
+    width: 152px;
+    cursor: pointer;
+    height: 39px;
+    position: relative;
+    top: 61px;
+}
+.body11 button:hover{
+    background: cyan;
+    color: black;
+}
+.footer{
+    background: black;
+    background: black;
+    margin-bottom: -12px;
+    padding-bottom: 11px;
+}
+.axelogo{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 185px;
+} 
+  .fa-facebook {   
+    color: yellow;
+    text-decoration: none; 
+    margin-left: 1000px;
+    padding-right: 19px; 
+  }
+  .fa-facebook:hover{
+    color: white;
+  }
+  .fa-twitter{
+    color: yellow;
+    text-decoration: none;
+    padding-right: 19px;
+  }
+  .fa-twitter:hover{
+    color: white;
+  }
+  .fa-instagram{
+    color: yellow;
+    text-decoration: none;
+    padding-right: 19px;
+  }
+  .fa-instagram:hover{
+    color: white;
+  }
+  .fa-youtube{
+    color: yellow;
+    text-decoration: none;
+  }  
+  .fa-youtube:hover{
+    color:white;
+  }
+  .footer hr{
+    margin-left: -12px;
+    margin-top: 42px;
+  }
+  .footer1{
+    width: 900px;
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+    grid-template-rows: 50px 50px 50px;
+    margin-left: 176px;
+  }
+  .footerletter{
+    font-family: Poppins, Inter, sans-serif;
+    font-size: 15px;
+    color: #fff;
+    text-decoration: none;
+  }
+  .unilever{
+    margin-left: 169px;
+    position: relative;
+    top: 52px;
+  }
+  .unilever2{
+    color: #757a82;
+    font-size: 12px;
+    margin-left: 244px;
+    position: relative;
+    top: -28px;
+  }
